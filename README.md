@@ -1,4 +1,5 @@
 # proyecto-adaptacion-climatica
+![image](https://github.com/user-attachments/assets/8681cbef-83d0-4357-b2f2-338a49c3d9f6)
 
 El proyecto tiene como objetivo analizar las conversaciones sobre la **adaptación al cambio climático** en América Latina, utilizando datos de Twitter. Para lograrlo, planeo integrar varias tecnologías que me permitan no solo recolectar y analizar grandes volúmenes de datos, sino también automatizar el proceso y asegurar que sea escalable y eficiente. Estas tecnologías incluyen herramientas para control de versiones, procesamiento de datos, contenedorización, orquestación de tareas y despliegue en la nube.
 
