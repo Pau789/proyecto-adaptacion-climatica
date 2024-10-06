@@ -1,4 +1,4 @@
-# proyecto-adaptacion-climatica
+# ClimateAdapt Trends
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8681cbef-83d0-4357-b2f2-338a49c3d9f6" alt="image" width="400"/>
